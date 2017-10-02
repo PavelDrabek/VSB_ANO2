@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VSB_ANO2", "VSB_ANO2\VSB_ANO2.vcxproj", "{7A125433-18BA-4B70-97E4-970C5E6BF7AE}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceDetection", "FaceDetection\FaceDetection.vcxproj", "{79412B2C-2242-46BF-A47B-111E816246E9}"
 EndProject
 Global
@@ -15,14 +13,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7A125433-18BA-4B70-97E4-970C5E6BF7AE}.Debug|x64.ActiveCfg = Debug|x64
-		{7A125433-18BA-4B70-97E4-970C5E6BF7AE}.Debug|x64.Build.0 = Debug|x64
-		{7A125433-18BA-4B70-97E4-970C5E6BF7AE}.Debug|x86.ActiveCfg = Debug|Win32
-		{7A125433-18BA-4B70-97E4-970C5E6BF7AE}.Debug|x86.Build.0 = Debug|Win32
-		{7A125433-18BA-4B70-97E4-970C5E6BF7AE}.Release|x64.ActiveCfg = Release|x64
-		{7A125433-18BA-4B70-97E4-970C5E6BF7AE}.Release|x64.Build.0 = Release|x64
-		{7A125433-18BA-4B70-97E4-970C5E6BF7AE}.Release|x86.ActiveCfg = Release|Win32
-		{7A125433-18BA-4B70-97E4-970C5E6BF7AE}.Release|x86.Build.0 = Release|Win32
 		{79412B2C-2242-46BF-A47B-111E816246E9}.Debug|x64.ActiveCfg = Debug|x64
 		{79412B2C-2242-46BF-A47B-111E816246E9}.Debug|x64.Build.0 = Debug|x64
 		{79412B2C-2242-46BF-A47B-111E816246E9}.Debug|x86.ActiveCfg = Debug|Win32
